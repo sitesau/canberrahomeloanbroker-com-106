@@ -1,0 +1,24 @@
+{
+  "wheel_id": 382,
+  "structure": "wheel",
+  "slug": "canberrahomeloanbroker-com-106",
+  "project": "mortgage-broker-canberra-costs-dd5444816511c39f99e2f703614bff6f",
+  "parent_t1_ref": "canberrahomeloanbroker-com-153",
+  "node_role": "feeder",
+  "money_target": "canberrahomeloanbroker.com.au",
+  "primary_kw": "mortgage broker canberra costs",
+  "intended_url": "https://aumedia.neocities.org/mortgage-broker-canberra-costs-dd5444816511c39f99e2f703614bff6f/",
+  "writeback_nonce": "274069313ef5bd36",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/canberrahomeloanbroker-com-153/",
+      "anchor": "mortgage broker canberra",
+      "rel": "follow"
+    },
+    {
+      "target_url": "http://mortgage-broker-canberra-comparison-5554845db482194a5b884f770d1.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "mortgage broker canberra comparison",
+      "rel": "follow"
+    }
+  ]
+}
